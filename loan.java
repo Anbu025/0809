@@ -5,7 +5,7 @@ import java.io.collection;
 import java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
-public class SpiralPatternExample2
+public class SpiralPatternExample
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  
@@ -34,5 +34,5 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+} 
 
